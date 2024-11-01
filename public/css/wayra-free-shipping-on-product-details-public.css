@@ -1,0 +1,19 @@
+.wayra-fsop-info {
+    display: inline-flex;
+    align-items: center;
+}
+
+.wayra-fsop-icon {
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.wayra-fsop-text {
+    margin: 10px 0;
+    font-weight: 500;
+}
+
+.wayra-fsop-subtitle {
+    font-size: 0.9em !important;
+    font-weight: 300 !important;
+}

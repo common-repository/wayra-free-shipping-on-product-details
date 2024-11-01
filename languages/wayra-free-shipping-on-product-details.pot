@@ -1,0 +1,173 @@
+# Copyright (C) 2020 Juan Manuel Acebal
+# This file is distributed under the same license as the Wayra - Free shipping on product details plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wayra - Free shipping on product details 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wayra-free-shipping-on-product-details\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-10-14T19:30:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wayra-free-shipping-on-product-details\n"
+
+#. Plugin Name of the plugin
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:16
+msgid "Wayra - Free shipping on product details"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wayradigital.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show icon and shipping text on products based on product price."
+msgstr ""
+
+#. Author of the plugin
+msgid "Juan Manuel Acebal"
+msgstr ""
+
+#: admin/class-wayra-free-shipping-on-product-details-admin.php:72
+msgid "Free shipping on product details"
+msgstr ""
+
+#: admin/class-wayra-free-shipping-on-product-details-admin.php:85
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:17
+msgid "This plugin is develop with %s by"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:18
+msgid "Contact me if need a <strong>custom plugin or customization</strong>"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:19
+msgid "If you want to help me to continue develop useful plugins"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:19
+msgid "buy me a cup of coffee"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:50
+msgid "Show Icon"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:52
+msgid "Show icon before text."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:56
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:93
+msgid "Shipping Text"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:58
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:95
+msgid "First line of shipping text."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:58
+msgid "e.g. Shipping all country"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:62
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:99
+msgid "Shipping Subtitle"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:64
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:101
+msgid "Second line of shipping text."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:64
+msgid "e.g. +$2500 Free Shipping"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:68
+msgid "Text position"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:70
+msgid "Before product price"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:71
+msgid "After product price"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:72
+msgid "Before add to cart button"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:73
+msgid "After add to cart button"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:80
+msgid "Change text based on product price"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:81
+msgid "This setting change two lines of text when price is equal or greater than defined price."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:82
+msgid "This an optional setting, you can use text, subtitle, both or none. Leave empty to avoid."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:87
+msgid "Price"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:89
+msgid "If the product price is equal or greater than this price, users see this text."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:89
+msgid "e.g. 2500.00"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:95
+msgid "e.g. Free Shipping"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:101
+msgid "e.g. Arrives in 2 days"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:106
+msgid "Customize CSS style"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:107
+msgid "If you need to customize icon or text style, you can use this class."
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:111
+msgid "Div container"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:115
+msgid "Icon"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:120
+msgid "First line of text"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:124
+msgid "Second line of text"
+msgstr ""
+
+#: admin/partials/wayra-free-shipping-on-product-details-admin-display.php:131
+msgid "Save all changes"
+msgstr ""
